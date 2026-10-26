@@ -1,0 +1,6 @@
+{
+  "name": "Bushra — A Cinematic 3D Birthday & Friendship Experience",
+  "description": "An immersive, cinematic 3D birthday celebration and lasting friendship universe dedicated to Bushra for her 15th milestone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
